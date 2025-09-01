@@ -1,9 +1,9 @@
 # 📊 Predicting Customer Propensity to Subscribe for a Term Deposit
 
-**Username:** RiyazShaik27
-**Name:** Shaik Riyaz
-**Email:** shaikriyaz11011@gmail.com
-**Repository:** Predicting-Customer-Propensity
+**Username:** RiyazShaik27 <br>
+**Name:** Shaik Riyaz <br>
+**Email:** shaikriyaz11011@gmail.com <br>
+**Repository:** Predicting-Customer-Propensity <br>
 
 ## 📝 Overview
 
